@@ -1,0 +1,11 @@
+{
+  "name": "chai-banckend",
+  "version": "1.0.0",
+  "description": "banckend with chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shamsheer",
+  "license": "ISC"
+}
